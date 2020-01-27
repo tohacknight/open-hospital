@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=shari
 
 ## Chat
 
-https://meet.jit.si/<add room name>
+https://meet.jit.si/tohacknightopenhospital
