@@ -14,7 +14,7 @@ Le issue sono su Jira:
 
 https://openhospital.atlassian.net/issues/?filter=10200
 
-Alcune che sembano approciabili:
+Alcune che sembrano approciabili:
 - frontend react: https://openhospital.atlassian.net/browse/OP-142
 - doc: https://openhospital.atlassian.net/browse/OP-174
 - java: https://openhospital.atlassian.net/browse/OP-141
