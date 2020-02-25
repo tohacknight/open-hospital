@@ -18,6 +18,9 @@ Alcune che sembrano approciabili:
 - frontend react: https://openhospital.atlassian.net/browse/OP-142
 - doc: https://openhospital.atlassian.net/browse/OP-174
 - java: https://openhospital.atlassian.net/browse/OP-141
+- java: https://openhospital.atlassian.net/browse/OP-106
+- sys: https://openhospital.atlassian.net/browse/OP-166
+- tooling: https://openhospital.atlassian.net/browse/OP-103
 
 
 ## Roadmap 
