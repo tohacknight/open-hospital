@@ -46,6 +46,11 @@ https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=shari
 To evaluate this option:
 https://docs.voltocms.com/customizing/i18n/
 
+## Security
+
+To evaluate this method:
+https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
+
 ## Slack
 
 https://openhospitalworkspace.slack.com
