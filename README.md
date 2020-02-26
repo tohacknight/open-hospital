@@ -17,6 +17,7 @@ https://openhospital.atlassian.net/issues/?filter=10200
 Alcune che sembrano approciabili:
 - frontend react: https://openhospital.atlassian.net/browse/OP-142
 - doc: https://openhospital.atlassian.net/browse/OP-174
+- java: https://openhospital.atlassian.net/browse/OP-158
 - java: https://openhospital.atlassian.net/browse/OP-141
 - java: https://openhospital.atlassian.net/browse/OP-106
 - sys: https://openhospital.atlassian.net/browse/OP-166
