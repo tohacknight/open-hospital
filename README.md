@@ -14,6 +14,10 @@ Le issue sono su Jira:
 
 https://openhospital.atlassian.net/issues/?filter=10200
 
+Issue su release 1.9.1:
+
+https://openhospital.atlassian.net/issues/?jql=project%20%3D%20OP%20AND%20fixVersion%20%3D%201.9.1%20AND%20resolution%20%3D%20Unresolved%20ORDER%20BY%20priority%20DESC
+
 Alcune che sembrano approciabili:
 - frontend react: https://openhospital.atlassian.net/browse/OP-142
 - doc: https://openhospital.atlassian.net/browse/OP-174
