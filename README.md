@@ -41,7 +41,10 @@ Alcune che sembrano approciabili:
 
 https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=sharing
 
+## Slack
 
-## Chat
+https://openhospitalworkspace.slack.com
+
+## Chat per la serata
 
 https://meet.jit.si/tohacknightopenhospital
