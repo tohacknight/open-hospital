@@ -41,6 +41,11 @@ Alcune che sembrano approciabili:
 
 https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=sharing
 
+## Language
+
+To evaluate this option:
+https://docs.voltocms.com/customizing/i18n/
+
 ## Slack
 
 https://openhospitalworkspace.slack.com
