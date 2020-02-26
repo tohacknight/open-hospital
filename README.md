@@ -8,6 +8,11 @@ In questo documento sono raccolti link che possono risultare utili durante la se
 - Frontend Java: https://github.com/informatici/openhospital-gui
 - Frontend React / Typescript: https://github.com/informatici/openhospital-ui
 
+## Documentazione
+
+Wiki: https://openhospital.atlassian.net/wiki/spaces/OH/overview
+Committee https://openhospital.atlassian.net/wiki/spaces/OHC/overview
+
 ## Issue
 
 Le issue sono su Jira:
