@@ -50,6 +50,7 @@ https://docs.voltocms.com/customizing/i18n/
 
 To evaluate this method:
 https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
+https://www.ekransystem.com/en/blog/rbac-vs-abac
 
 ## Slack
 
