@@ -36,6 +36,9 @@ Alcune che sembrano approciabili:
 - sys: https://openhospital.atlassian.net/browse/OP-166
 - tooling: https://openhospital.atlassian.net/browse/OP-103
 
+## Mailinglist Sviluppo
+
+https://sourceforge.net/projects/openhospital/lists/openhospital-devel
 
 ## Roadmap 
 
@@ -43,14 +46,14 @@ https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=shari
 
 ## Internationalization
 
-To evaluate this option:
+Da valutare questa opzione:
 https://docs.voltocms.com/customizing/i18n/
 
 ## Security
 
-To evaluate this method:
-https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
-https://www.ekransystem.com/en/blog/rbac-vs-abac
+Da valutare questi metodi:
+- https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
+- https://www.ekransystem.com/en/blog/rbac-vs-abac
 
 ## Slack
 
