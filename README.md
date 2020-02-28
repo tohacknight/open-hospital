@@ -6,6 +6,7 @@ In questo documento sono raccolti link che possono risultare utili durante la se
 
 - Backend Java: https://github.com/informatici/openhospital-core
 - Frontend Java: https://github.com/informatici/openhospital-gui
+- Java API: https://github.com/informatici/openhospital-api
 - Frontend React / Typescript: https://github.com/informatici/openhospital-ui
 
 ## Documentazione
