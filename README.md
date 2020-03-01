@@ -13,6 +13,8 @@ In questo documento sono raccolti link che possono risultare utili durante la se
 
 Wiki: https://openhospital.atlassian.net/wiki/spaces/OH/overview
 Committee https://openhospital.atlassian.net/wiki/spaces/OHC/overview
+User Manual: https://github.com/informatici/openhospital-doc/blob/master/doc_user/UserManual.adoc
+Admin Manual: https://github.com/informatici/openhospital-doc/blob/master/doc_admin/AdminManual.adoc
 
 ## Issue
 
