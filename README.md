@@ -56,9 +56,9 @@ Da valutare questi metodi:
 - https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/
 - https://www.ekransystem.com/en/blog/rbac-vs-abac
 
-## Slack
+## Slack (invite link)
 
-https://openhospitalworkspace.slack.com
+https://join.slack.com/t/openhospitalworkspace/shared_invite/enQtOTc1Nzc0MzE2NjQ0LWIyMzRlZTU5NmNlMjE2MDcwM2FhMjRkNmM4YzI0MTAzYTA0YTI3NjZiOTVhMDZlNWUwNWEzMjE5ZDgzNWQ1YzE
 
 ## Chat per la serata
 
