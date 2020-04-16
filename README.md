@@ -49,8 +49,8 @@ https://drive.google.com/file/d/1EQeQkwq2koF-42wdVUbpE6fuiwcprqqS/view?usp=shari
 
 ## Internationalization
 
-Da valutare questa opzione:
-https://docs.voltocms.com/customizing/i18n/
+Da valutare questa opzione (esempio di VoltoCMS): https://docs.voltocms.com/customizing/i18n/
+Pagina di discussione: https://openhospital.atlassian.net/wiki/spaces/OHC/pages/619544602/Translations
 
 ## Security
 
